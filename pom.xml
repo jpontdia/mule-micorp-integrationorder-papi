@@ -93,19 +93,5 @@
 			<version>1.0.2</version>
 			<classifier>mule-plugin</classifier>
 		</dependency>
-		
-		<!-- to be removed -->
-		<dependency>
-			<groupId>078efef1-d139-48ed-92f5-f8d4a0592374</groupId>
-			<artifactId>mule-plugin-order-api</artifactId>
-			<version>1.0.6</version>
-			<classifier>mule-plugin</classifier>
-		</dependency>
-		<dependency>
-			<groupId>078efef1-d139-48ed-92f5-f8d4a0592374</groupId>
-			<artifactId>mule-plugin-item-api</artifactId>
-			<version>1.0.3</version>
-			<classifier>mule-plugin</classifier>
-		</dependency>
 	</dependencies>
 </project>
